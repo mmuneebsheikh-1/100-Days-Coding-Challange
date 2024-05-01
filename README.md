@@ -1,1 +1,1 @@
-# My-Test-Repo
+# 100 days coding challange using type script.
